@@ -18,3 +18,6 @@ Example of the board on a winning attempt
 Check [src/currentOptions.txt](src/currentOptions.txt) to see the current remaining options, sorted from best to worst using a simple dynamic algorithm
 
 ![Cheating](images/cheating.png)
+
+# Disclaimer
+*This project was ported from its originally created host in 2021, hence there is no commit history*
